@@ -3,7 +3,7 @@
 Die Code-Stellen wurden aus dem aktuellen Projekt der Arm Prothese genommen. 
 
 ## Code Stelle 1 - Gripper Control
-  In diesem Cpp Code wird die Stellung des Greifers durch einen Topic empfangen und anchließend via Service Calls an die Gazebo API weitergegeben.
+  In diesem Cpp Code wird die Stellung des Greifers durch einen Topic empfangen und anschließend via Service Calls an die Gazebo API weitergegeben.
   
 ## Code Stelle 2 - Myo_Control_Node
 
