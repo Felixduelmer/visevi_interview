@@ -1,4 +1,4 @@
-# visevi_interview
+# Visevi Interview
 
 Die Code-Stellen wurden aus dem aktuellen Projekt mit der Arm Prothese genommen. 
 
@@ -11,3 +11,7 @@ Die Code-Stellen wurden aus dem aktuellen Projekt mit der Arm Prothese genommen.
 
 
 Hier kommt die gesamte Steuerung zusammen. Wie im Bild erkennbar gibt es verschiedene Topics, welche kombiniert werden und dann gepublisht werden.
+
+## Code Stelle 3 - Simple Controller Gazebo
+
+Dieser Code sorgt dafür, dass die Prothese durch kontinuierliche Kontrollschleifen in der Luft gehalten wird und die Orientierung der Prothese in der realen Welt widerspiegelt. Die Basis des Codes wurde übernommen und anschließend an den bestehenden Use-Case angepasst.
