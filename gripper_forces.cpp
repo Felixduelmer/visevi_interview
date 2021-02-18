@@ -21,7 +21,7 @@ int main(int argc, char **argv)
   ros::ServiceClient clearForceclient;
   ros::ServiceClient applyForceClient;
 
-  // subscriber to input commmands --> keyboard
+  // subscriber to input commmands --> keyboard or myo
   ros::NodeHandle nhandsub;
   ros::Subscriber sub = nhandsub.subscribe("/gripperforce", 10, &cmd_gripCallback);
 
