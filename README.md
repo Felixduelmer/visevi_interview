@@ -1,6 +1,6 @@
 # Visevi Interview
 
-Die Code-Stellen wurden aus dem aktuellen Projekt mit der Arm Prothese genommen. 
+Die Code-Stellen wurden aus dem aktuellen Projekt der Arm Prothese genommen. 
 
 ## Code Stelle 1 - Gripper Control
   In diesem Cpp Code wird die Stellung des Greifers durch einen Topic empfangen und anchließend via Service Calls an die Gazebo API weitergegeben.
@@ -10,7 +10,7 @@ Die Code-Stellen wurden aus dem aktuellen Projekt mit der Arm Prothese genommen.
 ![alt text](https://github.com/Felixduelmer/visevi_interview/blob/main/gazebo_nodes.png?raw=true)
 
 
-Hier kommt die gesamte Steuerung zusammen. Wie im Bild erkennbar gibt es verschiedene Topics, welche kombiniert werden und dann gepublisht werden.
+Hier kommt die gesamte Steuerung zusammen. Wie im Bild erkennbar gibt es verschiedene Topics, welche kombiniert und dann gepublisht werden.
 
 ## Code Stelle 3 - Simple Controller Gazebo
 
