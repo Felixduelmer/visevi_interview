@@ -7,5 +7,7 @@ Die Code-Stellen wurden aus dem aktuellen Projekt mit der Arm Prothese genommen.
   
 ## Code Stelle 2 - Myo_Control_Node
 
-Hier kommt die gesamte Steuerung Zusammen. Wie in dem 
-![alt text](https://github.com/Felixduelmer/visevi_interview-/blob/main/gazebo_nodes.png?raw=true)
+![alt text](https://github.com/Felixduelmer/visevi_interview/blob/main/gazebo_nodes.png?raw=true)
+
+
+Hier kommt die gesamte Steuerung zusammen. Wie im Bild erkennbar gibt es verschiedene Topics, welche kombiniert werden und dann gepublisht werden.
